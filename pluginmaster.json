@@ -53,7 +53,7 @@
         "Punchline": "\u53d1\u9001\u5047\u6d88\u606f",
         "Description": "\u8c03\u7528ChatGui\u5728\u672c\u5730\u53d1\u9001\u5047\u6d88\u606f\uff0c\u548csonar\u53d1\u7684\u539f\u7406\u5e94\u8be5\u5dee\u4e0d\u591a",
         "InternalName": "XIVFakeNews",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.2.21",
         "ApplicableVersion": "any",
         "Tags": [
             "entertainment"
