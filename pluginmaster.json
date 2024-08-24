@@ -58,16 +58,16 @@
         "Tags": [
             "entertainment"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVFakeNews/main/icon.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/LuminaCaelestis/DalamudPluginsF/main/plugins/XIVFakeNews/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/LuminaCaelestis/DalamudPluginsF/main/plugins/XIVFakeNews/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/LuminaCaelestis/DalamudPluginsF/main/plugins/XIVFakeNews/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709919970"
+        "LastUpdate": "1724459475"
     },
     {
         "Author": "Cytraen",
